@@ -1,1 +1,0 @@
-# alagu-mongo-scheduler-with-cloud-config
